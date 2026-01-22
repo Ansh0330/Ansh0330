@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Ansh Kotnala</h1>
 <h3 align="center">
-Mechanical Engineering Undergraduate at DTU | Full-Stack Developer | DSA Enthusiast
+Engineering Undergraduate at DTU | Data Scientist | Full-Stack Developer | DSA Enthusiast
 </h3>
 
 <img align="right" alt="coding" width="450"
@@ -14,11 +14,11 @@ src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-
 
 I'm a **B.Tech Undergraduate Student in Mechanical Engineering at Delhi Technological University (DTU)** with a strong passion for **software engineering, full-stack development, and data structures & algorithms**.
 
-- 🎓 Mechanical Engineering @ **DTU**
+- 🎓 Engineering @ **DTU**
 - 💻 **Full-Stack Developer** with hands-on project experience
 - 🧠 Solved **150+ DSA problems on LeetCode**
-- 🔭 Currently focused on **DSA mastery and scalable system design**
-- 💬 Ask me about **DSA, Full-Stack Web Development, MERN Stack**
+- 🔭 Currently focused on **Data Science and Cloud architechtures**
+- 💬 Ask me about **DSA, Full-Stack Web Development, MERN Stack , Data and Cloud**
 - ⚡ Fun fact: **Engineering fundamentals scale across all problem domains**
 
 ---
